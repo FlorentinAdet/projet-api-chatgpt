@@ -1,0 +1,62 @@
+[
+  {
+    "formData": {
+      "nom": "tes",
+      "prenom": "tes",
+      "email": "ezarze@ezaL.fr",
+      "question": "ezarzaerzea"
+    },
+    "chatGptResponse": "Je suis une réponse générée par ChatGPT !",
+    "timestamp": "2023-11-12T17:09:44.269Z"
+  },
+  {
+    "formData": {
+      "nom": "tes",
+      "prenom": "tes",
+      "email": "ezarze@ezaL.fr",
+      "question": "ezarzaerzea"
+    },
+    "chatGptResponse": "Je suis une réponse générée par ChatGPT !",
+    "timestamp": "2023-11-12T17:09:59.692Z"
+  },
+  {
+    "formData": {
+      "nom": "ADET",
+      "prenom": "Florentin",
+      "email": "Florentin.adet@gmail.com",
+      "question": "Qu'elles sont les plus grandes personnalités qui sont nées en 2000\r\n"
+    },
+    "chatGptResponse": "Oh, cher requérant, permettez-moi de vous présenter les plus illustres personnalités nées dans l'an de grâce 2000. Tenez bon votre cœur, car ces êtres n'en sont qu'à leurs débuts, mais promis à un avenir brillant !\n\n1. Millie Bobby Brown - Une actrice prodigieuse qui, à un si jeune âge, a déjà conquis les écrans avec son rôle mémorable dans la série \"Stranger Things\".\n2. Malala Yousafzai - Une jeune militante pakistanaise pour l'éducation des filles, qui a bravement survécu à une tentative d'assassinat et continue de lutter pour les droits de l'homme et l'accès à l'éducation.\n3. Jacob Elordi - Un acteur australien qui est apparu dans la série \"Euphoria\" et a captivé le public avec son charisme et son talent.\n4. Willow Smith - Une chanteuse, actrice et danseuse américaine très polyvalente, qui a su se distinguer avec sa voix ensorcelante et sa personnalité unique.\n5. Luca Di Martino - Un footballeur italien, dont les compétences sur le terrain ont déjà commencé à faire des vagues au sein du monde du football.\n\nCes jeunes étoiles prometteuses sont les véritables joyaux de l'année 2000, et leurs exploits futurs donneront sans aucun doute naissance à d'autres légendes.",
+    "timestamp": "2023-11-14T08:49:21.138Z"
+  },
+  {
+    "formData": {
+      "nom": "tatea",
+      "prenom": "eazreaz",
+      "email": "reazreza@faez.re",
+      "question": "fdsq"
+    },
+    "chatGptResponse": "Je suis une réponse générée par ChatGPT !",
+    "timestamp": "2023-11-14T10:49:30.801Z"
+  },
+  {
+    "formData": {
+      "nom": "tatea",
+      "prenom": "eazreaz",
+      "email": "reazreza@faez.re",
+      "question": "Qui est le plus beau ?\r\n"
+    },
+    "chatGptResponse": "Verily, beauty is a subjective matter, for each eye beholds a different delight. As a loyal servant to my master, William Shakespeare, I cannot impartially declare who is deemed the fairest. However, in the realm of love and admiration, it is said that inner beauty shines brightest, for a gentle soul and virtuous heart make one truly radiant.",
+    "timestamp": "2023-11-14T10:53:51.316Z"
+  },
+  {
+    "formData": {
+      "nom": "feza",
+      "prenom": "fzeaaz",
+      "email": "faez@feaz.Fr",
+      "question": "Comment créer un fichier HTML ?\r\n"
+    },
+    "chatGptResponse": "Bonne question, noble demandeur ! Pour créer un fichier HTML digne de ce nom, il vous faut suivre ces étapes :\n\n1. Commencez avec un éditeur de texte, tel que le notepad ou un autre éditeur de votre choix.\n2. Ouvrez un nouveau fichier, vierge comme une toile vierge dans une pièce d'artiste.\n3. Pour indiquer au navigateur qu'il s'agit d'un fichier HTML, tapez ce mot à la première ligne : <!DOCTYPE html>\n4. Ensuite, enveloppez tout le contenu du fichier HTML dans une balise <html>. C'est comme si vous mettiez votre chef-d'œuvre dans un cadre solide.\n5. À l'intérieur de la balise <html>, ajoutez une balise <head> et une balise <body>. Le <head> sera le cerveau de votre page, contenant des informations telles que le titre, les styles CSS, etc. Le <body> sera le corps de votre page, où le contenu réel sera affiché.\n6. Dans la balise <head>, ajoutez une balise <title> suivie du titre de votre choix pour donner à votre page un nom digne de son importance.\n7. Dans la balise <body>, vous pouvez ajouter tout le contenu que vous souhaitez, tel que des titres, des paragraphes, des images, des liens, etc. Utilisez les balises appropriées pour chaque élément que vous ajoutez.\n8. Une fois que vous avez ajouté tout votre contenu, fermez les balises spécifiques que vous avez utilisées, comme nous, forsooth, nous fermons les portes de notre humble chaumière chaque soir.\n9. Enfin, terminez en fermant toutes les balises que vous avez ouvertes, en unissant tout comme un noble souverain unifierait son royaume.\n\nUne fois ces étapes accomplies, sauvegardez le fichier avec une extension .html, comme une noble bannière qui flotte fièrement dans le vent. Vous êtes à présent prêt à partager votre fichier HTML avec le monde entier !\n\nQue cette humble dissertation vous soit utile pour créer votre chef-d'œuvre numérique, homme de savoir !",
+    "timestamp": "2023-11-14T10:56:30.450Z"
+  }
+]
