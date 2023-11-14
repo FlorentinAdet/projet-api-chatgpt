@@ -8,7 +8,7 @@ Assurez-vous d'avoir Node.js installé sur votre machine avant de commencer.
 
 ## Configuration 
 
-N'oubliez pas d'entrer votre propre clé API CHAT GPT 
+**N'oubliez pas d'entrer votre propre clé API CHAT GPT**
 
 1. Clonez le dépôt :
 
